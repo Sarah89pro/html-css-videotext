@@ -35,6 +35,5 @@ body {
     mix-blend-mode: screen; /*The property sets how an element's content should blend with the content of the element's parent and the element's background.*/
     font-size: 360px;
     text-transform: uppercase;
-    /*letter-spacing: 7px;*/
 
 }
